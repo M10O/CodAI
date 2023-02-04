@@ -1,0 +1,6 @@
+# open script.js file in client
+# open terminal and 
+# cd client
+# npm run dev
+# now open server.js file in server
+# npm run server to start server 
